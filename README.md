@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey y'all! 🤠 Here's a little info about me:
+
+🎓 **New Kid on the Code Block:** Just got my bachelor's in computer science. I'll be trying to show my abilities in C++, python, and Java.
+##
+I love learning, so if you see something I can improve on, let me know! 
+##
+Stay awesome, code wizards! 🚀👩‍💻
 
 <!--
 **GirlDummer/GirlDummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
